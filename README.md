@@ -3,7 +3,7 @@
 
 ### E-mail
 <p>
-  <a href="mailto:skckdeo@hanmail.net" target="_blank">
+  <a href="mailto:sangdal91@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/skckdeo@hanmail.net-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
