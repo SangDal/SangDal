@@ -10,7 +10,7 @@
 
 ### PortFolio
 <p>
-  <a href="https://sangdal.github.io/" target="_blank">
+  <a href="https://viridian-surfboard-da6.notion.site/d2536d96c3c840cb83ccbbd149250a0c" target="_blank">
     <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=&logoColor=black"/>
   </a>
 </p>
